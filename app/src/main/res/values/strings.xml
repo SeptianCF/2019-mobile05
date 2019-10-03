@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">StarterChapter05</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="push_up_text">A push-up (or press-up if the hands are wider than shoulders placing more emphasis on the pectoral muscles) is a common calisthenics exercise beginning from the prone position, or the front leaning rest position known in the military. By raising and lowering the body using the arms, push-ups exercise the pectoral muscles, triceps, and anterior deltoids, with ancillary benefits to the rest of the deltoids, serratus anterior, coracobrachialis and the midsection as a whole. Push-ups are a basic exercise used in civilian athletic training or physical education and commonly in military physical training. They are also a common form of punishment used in the military, school sport, or in some martial arts disciplines.</string>
+    <string name="dips_text">A dip is an upper-body strength exercise. Narrow, shoulder-width dips primarily train the triceps, with major synergists being the anterior deltoid, the pectoralis muscles, and the rhomboid muscles of the back.</string>
+    <string name="handstand_text">A handstand is the act of supporting the body in a stable, inverted vertical position by balancing on the hands. In a basic handstand the body is held straight with arms and legs fully extended, with hands spaced approximately shoulder-width apart and the legs together.</string>
 </resources>
